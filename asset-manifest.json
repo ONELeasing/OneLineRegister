@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/OneLineRegister/static/js/main.1fcac670.js",
+    "main.js": "/OneLineRegister/static/js/main.2e62e8cd.js",
     "static/js/453.3a7ce217.chunk.js": "/OneLineRegister/static/js/453.3a7ce217.chunk.js",
     "index.html": "/OneLineRegister/index.html",
-    "main.1fcac670.js.map": "/OneLineRegister/static/js/main.1fcac670.js.map",
+    "main.2e62e8cd.js.map": "/OneLineRegister/static/js/main.2e62e8cd.js.map",
     "453.3a7ce217.chunk.js.map": "/OneLineRegister/static/js/453.3a7ce217.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.1fcac670.js"
+    "static/js/main.2e62e8cd.js"
   ]
 }
